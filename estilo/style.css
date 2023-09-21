@@ -35,6 +35,18 @@ a:hover{
     text-decoration: underline;
 }
 
+section.normal {
+    background-color: rgb(53, 43, 43);
+    color: white;
+}
+
+section.imagem {
+    background-color: rgba(71, 67, 67, 0.548);
+}
+
 footer {
-    
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
